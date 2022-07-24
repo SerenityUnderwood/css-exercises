@@ -6,3 +6,14 @@
 .class.cooler {
     font-size: 24px;
 }
+
+#secondElement {
+    color: blue;
+    font-size: 36px;
+}
+
+#fourthElement {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
